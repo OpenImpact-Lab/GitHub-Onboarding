@@ -58,3 +58,17 @@ If you'd like to contribute to this project, please fork the repository and subm
 
 [//]: # (Add a license to your project.)
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
+
+## Running the Hello, World! Program
+
+To run the `hello.py` program, you need to have Python installed on your system.  Then, follow these steps:
+
+1.  Open your terminal or command prompt.
+2.  Navigate to the directory where you have saved the `hello.py` file.  For example: `cd GitHub-Onboarding`
+3.  Execute the program using the following command:
+
+    ```bash
+    python hello.py
+    ```
+
+    This will print "Hello, World!" to your console.
