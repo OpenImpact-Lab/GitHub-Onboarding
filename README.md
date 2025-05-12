@@ -1,22 +1,3 @@
-# My Awesome Project
-
-<!-- A short and clear description of your project -->
-This is a brief description of what your project does. Explain the purpose and goals of your project.
-
-## Table of Contents
-
-*   [Introduction](#introduction)
-*   [Project Overview](#project-overview)
-*   [Getting Started](#getting-started)
-*   [Usage](#usage)
-*   [License](#license)
-
-## Introduction <a name="introduction"></a>
-
-<!-- A more detailed introduction to your project -->
-Provide a more detailed introduction, including the motivation behind the project and what problem it solves.
-
-## Project Overview <a name="project-overview"></a>
 
 <!-- Explain the key features and functionalities of your project -->
 Describe the key features and functionalities of your project. What makes it unique?
@@ -30,6 +11,14 @@ Provide step-by-step instructions on how to get your project up and running. Inc
 
 <!-- How to use your project and its features -->
 Explain how to use your project and its features with examples.
+
+## Running the Program <a name="running-the-program"></a>
+
+To run the 'Hello, World!' program, follow these steps:
+
+1.  Make sure you have Python installed on your system.
+2.  Navigate to the project directory in your terminal or command prompt.
+3.  Run the program using the command: `python hello.py`
 
 ## License <a name="license"></a>
 
