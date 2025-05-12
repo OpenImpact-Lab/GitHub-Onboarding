@@ -23,4 +23,4 @@ To run the 'Hello, World!' program, follow these steps:
 ## License <a name="license"></a>
 
 <!-- Information about the license of your project -->
-This project is licensed under the [MIT License](LINK_TO_MIT_LICENSE).
+This project is licensed under the MIT License.
